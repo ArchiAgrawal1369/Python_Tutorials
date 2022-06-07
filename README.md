@@ -1,8 +1,9 @@
 # Python_Tutorials
 Learn Python and libraries!
+
 Additional Functions for Numpy:
 
-np.exp(a) for exponential function
+np.exp(a) for exponential function \n
 
 x_norm=np.linalg.norm(x,axis=1,keepdims=True) x=x/x_norm for normalizing rows
 
