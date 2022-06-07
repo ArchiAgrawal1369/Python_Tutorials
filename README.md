@@ -1,6 +1,5 @@
 # Python_Tutorials
 Learn Python and libraries!
-
 Additional Functions for Numpy:
 
 np.exp(a) for exponential function
